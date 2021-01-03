@@ -23,4 +23,4 @@ $ python ola.py
 
 Programa desenvolvido por Alaide Lisandra Melo Carvalho (<mendie73@gmail.com>).
 
-&copy; IMD/UFRN 2019-2020.
+&copy; IMD/UFRN 2019-2021.
