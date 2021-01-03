@@ -1,5 +1,5 @@
 # Projeto de Olá Mundo
-Repositório criado durante a produção do artigo "Introdução ao Flask: Aula 0 - Olá mundo" que foi postado na série "Introdução ao Flask" no [meu perfil do dev.to](https://dev.to/lisandramelo/).
+Repositório criado durante a produção do artigo "Introdução ao Flask: Criando seu Primeiro Olá Mundo" que foi postado no [meu perfil do dev.to](https://dev.to/lisandramelo/).
 
 # Informações Importantes
 
